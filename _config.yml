@@ -1,0 +1,28 @@
+name: Jack of many trades
+favicon: null
+layout_spectrum: 0.22424271469935775
+typography_spectrum: 0.3261179050896317
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.08589520142413676
+  lightness: 0.5903969628270715
+  saturation: 0.27644925587810576
+  rhythmicContrast: 0.6163550114724785
+purpose: []
